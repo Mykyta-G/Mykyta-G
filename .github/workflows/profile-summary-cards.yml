@@ -13,6 +13,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ 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 }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Mykyta-G
