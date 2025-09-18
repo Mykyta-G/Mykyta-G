@@ -1,3 +1,7 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Mykyta-G&theme=tokyonight&hide_border=true&bg_color=00000000&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mykyta-G&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mykyta-G&theme=github-compact" alt="Activity Graph" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mykyta-G&bg_color=1a1b27&color=70a5fd&line=bb9af7&point=70a5fd&area=true&hide_border=true" alt="Activity Graph" />
+</p>
